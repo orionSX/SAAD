@@ -5,9 +5,9 @@ int main()
   //w123
   //w123
   //w123
-    string name;
-    std::cin >> name;
-    std::cout << "Hello World from " <<name;
+    string name1;
+    std::cin >> name1;
+    std::cout << "Hello World from " <<name1;
 
     return 0;
 }
