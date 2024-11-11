@@ -1,6 +1,7 @@
 #include <iostream>
 
-int main()
+int
+main()
 { 
   //w123
   //w123
