@@ -3,12 +3,12 @@
 int
 main()
 { 
-  //w123
-  //w123
-  //w123
-    string name1;
-    std::cin >> name1;
-    std::cout << "Hello World from " <<name1;
+  //wowziie insane comment
+  //another weird comment
+  //yet another one
+    string name;
+    std::cin >> name;
+    std::cout << "Hello World from " <<name;
 
     return 0;
 }
