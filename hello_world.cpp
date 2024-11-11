@@ -2,7 +2,7 @@
 
 int main()
 { 
-  //wowziie insane comment
+  //w123
     string name;
     std::cin >> name;
     std::cout << "Hello World from " <<name;
